@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620767857 source:c:\users\kerols\onedrive\desktop\task5\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+
